@@ -31,11 +31,15 @@
 public class Karabo {
 
 
-    String[] focus      = { "Fintech", "E-commerce", "Backend Systems" };
-    String   location   = "Johannesburg, South Africa 🇿🇦";
-    String   currently  = "Building production-grade APIs & distributed systems";
-    String[] interests  = { "Concurrency", "System Design", "Clean Architecture" };
-    String   pronouns   = "He/Him";
+    String[] focus = { "Fintech", "E-commerce", "Backend Systems" };
+    String location = "Johannesburg, South Africa 🇿🇦";
+    String currently = "Building production-grade APIs & distributed systems";
+    String[] interests = { "Concurrency", "System Design", "Clean Architecture" };
+    String pronouns = "He/Him";
+
+    // When not shipping code... 🎮
+    String offDuty = "Running combos in Marvel vs Capcom 2 like it's 2002 🕹️";
+    // (Magneto/Storm/Sentinel — don't @ me)
 
 
 }
