@@ -45,6 +45,12 @@ public class Karabo {
 }
 ```
 
+<div align="center">
+<img src="robot.png" alt="Robot mascot" width="150" />
+
+*My coding companion 🤖*
+</div>
+
 
 ---
 
