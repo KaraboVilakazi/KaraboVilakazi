@@ -31,24 +31,55 @@
 public class Karabo {
 
 
-    String[] focus = { "Fintech", "E-commerce", "Backend Systems" };
-    String location = "Johannesburg, South Africa 🇿🇦";
-    String currently = "Building production-grade APIs & distributed systems";
-    String[] interests = { "Concurrency", "System Design", "Clean Architecture" };
-    String pronouns = "He/Him";
-
-    // When not shipping code... 🎮
-    String offDuty = "Running combos in Marvel vs Capcom 2 like it's 2002 🕹️";
-    // (Magneto/Storm/Sentinel — don't @ me)
+    String[] focus      = { "Fintech", "E-commerce", "Backend Systems" };
+    String   location   = "Johannesburg, South Africa 🇿🇦";
+    String   currently  = "Building production-grade APIs & distributed systems";
+    String[] interests  = { "Concurrency", "System Design", "Clean Architecture" };
+    String   pronouns   = "He/Him";
+    String   offDuty    = "Playing Marvel vs Capcom 2 🕹️ — Magneto, Storm, Psylocke. Say less.";
 
 
 }
 ```
 
-<div align="center">
-<img src="robot.png" alt="Robot mascot" width="80" />
 
-</div>
+---
+
+
+## 🚀 Featured Projects
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [SwiftCart](https://github.com/KaraboVilakazi/swiftcart)
+**Production-grade e-commerce backend** deployed on Railway
+
+- ⚡ Optimistic locking prevents inventory oversell under concurrent load
+- 🔄 Event-driven order workflow with rollback on failure
+- 🔴 Redis caching with 10-min TTL on product lookups
+- 🔐 JWT auth via Spring Security
+- 🐘 PostgreSQL + Flyway migrations + Docker
+
+`Java 17` `Spring Boot 3.2` `PostgreSQL` `Redis` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 [Load Shedding Survival Simulator](https://github.com/KaraboVilakazi/load-shedding-survival-simulator)
+**A South African survival game** built with Python & pygame
+
+- 🇿🇦 Simulates real Stage 2–8 load shedding schedules
+- 🎮 Resource management: battery, food, data, morale
+- 📁 Fully data-driven — events & balance via JSON config
+- 🏗️ Clean architecture with separated game, UI & system layers
+
+`Python 3.10` `pygame` `Data-driven design`
+
+</td>
+</tr>
+</table>
 
 
 ---
@@ -75,3 +106,4 @@ public class Karabo {
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+</div>
