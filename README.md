@@ -17,7 +17,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/KaraboVilakazi?style=for-the-badge&color=3B82F6&logo=github)](https://github.com/KaraboVilakazi)
 [![Profile views](https://komarev.com/ghpvc/?username=KaraboVilakazi&style=for-the-badge&color=3B82F6)](https://github.com/KaraboVilakazi)
 
-<img src="robot.png" alt="Robot mascot" width="80" />
+<img src="robot.png" alt="Robot mascot" width="50" height="50" />
 
 </div>
 
