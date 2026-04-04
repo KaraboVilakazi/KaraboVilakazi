@@ -68,15 +68,16 @@ public class Karabo {
 </td>
 <td width="50%" valign="top">
 
-### 🔌 [Load Shedding Survival Simulator](https://github.com/KaraboVilakazi/load-shedding-survival-simulator)
-**A South African survival game** built with Python & pygame
+### 🏦 [Imali Banking API](https://github.com/KaraboVilakazi/imali-banking-api)
+**Production-style SA banking REST API** — *Imali means money in Zulu*
 
-- 🇿🇦 Simulates real Stage 2–8 load shedding schedules
-- 🎮 Resource management: battery, food, data, morale
-- 📁 Fully data-driven — events & balance via JSON config
-- 🏗️ Clean architecture with separated game, UI & system layers
+- 🔐 JWT auth with role-based access control (CUSTOMER / ADMIN)
+- 🔒 Pessimistic locking prevents deadlocks on concurrent transfers
+- 📋 Immutable audit log with `REQUIRES_NEW` isolation — survives rollbacks
+- 🚨 Non-blocking fraud detection flags suspicious transactions in real time
+- 🐳 Docker Compose stack + GitHub Actions CI + Swagger UI
 
-`Python 3.10` `pygame` `Data-driven design`
+`Java 17` `Spring Boot 3.2` `PostgreSQL` `Docker` `Spring Security`
 
 </td>
 </tr>
