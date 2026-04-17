@@ -37,7 +37,7 @@ public class Karabo {
     String   currently  = "Building production-grade APIs & distributed systems";
     String[] interests  = { "Concurrency", "System Design", "Clean Architecture" };
     String   pronouns   = "He/Him";
-    String   offDuty    = "Playing Marvel vs Capcom 2 🕹️ — Magneto, Storm, Psylocke. Say less.";
+    String   offDuty    = "Marvel vs Capcom 2 🕹️";
 
 
 }
