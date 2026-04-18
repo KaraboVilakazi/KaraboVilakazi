@@ -81,6 +81,35 @@ public class Karabo {
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 [Reef](https://github.com/KaraboVilakazi/reef)
+**Personal finance platform** — web + mobile
+
+- 📡 Real-time balance updates via SignalR WebSockets
+- 📊 Budget burn-rate engine with monthly projection analytics
+- 🔐 JWT auth + role-based access control across web and mobile
+- 🏦 Multi-account management with transaction history
+- 📱 Companion mobile app built with React Native + Expo
+
+`C#` `.NET 8` `Angular 19` `SignalR` `PostgreSQL` `Entity Framework Core`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [Reef Mobile](https://github.com/KaraboVilakazi/reef-mobile)
+**React Native companion app for Reef**
+
+- 🔄 Shared auth flow with the web platform (JWT)
+- 💳 Account overview, transactions & budget tracking on mobile
+- 🎨 Custom UI component library (Button, Input, Badge, Skeleton)
+- 📦 Expo SDK 54 with file-based routing
+
+`React Native` `Expo SDK 54` `TypeScript`
+
+</td>
+</tr>
 </table>
 
 
