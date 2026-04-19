@@ -84,7 +84,7 @@ public class Karabo {
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [Reef](https://github.com/KaraboVilakazi/reef)
+### 💰 [Reef](https://github.com/KaraboVilakazi/reef) · [Live Demo](https://reef-ui-six.vercel.app)
 **Personal finance platform** — web + mobile
 
 - 📡 Real-time balance updates via SignalR WebSockets
