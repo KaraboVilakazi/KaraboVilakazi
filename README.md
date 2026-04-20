@@ -126,15 +126,24 @@ public class Karabo {
 
 
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 
 
 **Frameworks & Libraries**
 
 
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.dev)
+[![React Native](https://skillicons.dev/icons?i=react)](https://reactnative.dev)
+
+
+**Infrastructure**
+
+
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+
+
 </div>
