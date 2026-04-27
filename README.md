@@ -37,7 +37,7 @@ public class Karabo {
     String   currently  = "Building production-grade APIs & distributed systems";
     String[] interests  = { "Concurrency", "System Design", "Clean Architecture" };
     String   pronouns   = "He/Him";
-    String   offDuty    = "Marvel vs Capcom 2 🕹️";
+    String   offDuty    = "Marvel vs Capcom 2 and Black Myth Wukong 🕹️";
 
 
 }
@@ -99,7 +99,7 @@ public class Karabo {
 <td width="50%" valign="top">
 
 ### 📱 [Reef Mobile](https://github.com/KaraboVilakazi/reef-mobile)
-**React Native companion app for Reef**
+**React Native companion app for Reef (Under developement --- adding additional features**
 
 - 🔄 Shared auth flow with the web platform (JWT)
 - 💳 Account overview, transactions & budget tracking on mobile
